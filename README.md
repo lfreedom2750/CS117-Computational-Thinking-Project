@@ -56,17 +56,19 @@ Dữ liệu dùng để huấn luyện và kiểm thử mô hình trong đồ á
 
 ## CẤU TRÚC THƯ MỤC
 
+```text
 .
-├── data/
-│   ├── dem_train.npy            # DEM nhân tạo
-│   ├── building_mask_train.npy  # Mặt nạ công trình
-│   └── boundary_polygon.json    # Đa giác khu vực nghiên cứu
+├── data/                        # Dữ liệu nhân tạo dùng cho huấn luyện
+│   ├── dem_train.npy            # DEM (Digital Elevation Model)
+│   ├── building_mask_train.npy  # Mặt nạ công trình xây dựng
+│   └── boundary_polygon.json    # Đa giác xác định khu vực nghiên cứu
 │
-├── model_utils.py               # Hàm xử lý, tạo đặc trưng, huấn luyện mô hình
-├── train_pipeline.py            # Pipeline tạo dữ liệu, train và lưu model
-├── model.pkl                    # Mô hình LightGBM đã huấn luyện
-├── app.py                       # Ứng dụng Streamlit
-└── README.md
+├── model_utils.py               # Các hàm tiền xử lý, tạo đặc trưng và huấn luyện
+├── train_pipeline.py            # Pipeline tạo dữ liệu, huấn luyện và lưu mô hình
+├── model.pkl                    # Mô hình LightGBM đã huấn luyện (tạo sau khi train)
+├── app.py                       # Ứng dụng Streamlit minh họa kết quả
+└── README.md                    # Tài liệu mô tả đồ án
+
 
 ---
 
