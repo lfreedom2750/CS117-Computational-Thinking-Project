@@ -68,7 +68,7 @@ Dữ liệu dùng để huấn luyện và kiểm thử mô hình trong đồ á
 ├── model.pkl                    # Mô hình LightGBM đã huấn luyện (tạo sau khi train)
 ├── app.py                       # Ứng dụng Streamlit minh họa kết quả
 └── README.md                    # Tài liệu mô tả đồ án
-
+```
 
 ---
 
