@@ -13,7 +13,7 @@
 
 | STT | MSSV     | Họ và Tên                 | Chức vụ     | Email                    |
 |-----|----------|---------------------------|-------------|--------------------------|
-| 1   | 23520732 | Đăng Anh Khoa             | Nhóm trưởng | 23520732@gm.uit.edu.vn   |
+| 1   | 23520732 | Đặng Anh Khoa             | Nhóm trưởng | 23520732@gm.uit.edu.vn   |
 | 2   | 23520986 | Phan Công Nam             | Thành viên  | 23520986@gm.uit.edu.vn   |
 | 3   | 23520705 | Phạm Minh Bảo Khang       | Thành viên  | 23520705@gm.uit.edu.vn   |
 | 4   | 23520746 | Nguyễn Đăng Khoa          | Thành viên  | 23520746@gm.uit.edu.vn   |
