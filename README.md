@@ -32,7 +32,7 @@
 
 ---
 
-## GIỚI THIỆU ĐỘ ÁN
+## GIỚI THIỆU ĐỒ ÁN
 
 Tại các đô thị lớn ở Việt Nam như Thành phố Hồ Chí Minh và Hà Nội, tình trạng ngập lụt do
 mưa lớn đã trở thành vấn đề thường xuyên. Tuy nhiên, khó khăn lớn không chỉ nằm ở việc xảy
